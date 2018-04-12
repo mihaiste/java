@@ -1,0 +1,13 @@
+Tue Apr 10 16:21:59 EEST 2018 : Apache Derby Network Server - 10.8.1.2 - (1095077) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Tue Apr 10 16:21:59 EEST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.1.2 - (1095077): instance a816c00e-0162-afb8-61a6-0000793ddd71 
+on database directory /home/mihaita/NetBeansProjects/db/javadb/hw01-1  with class loader sun.misc.Launcher$AppClassLoader@24e2bc8d 
+Loaded from file:/home/mihaita/GlassFish_Server/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_171-b02
+user.dir=/home/mihaita/GlassFish_Server/javadb
+derby.system.home=/home/mihaita/NetBeansProjects/db/javadb
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Apr 10 16:22:04 EEST 2018: Shutting down Derby engine
